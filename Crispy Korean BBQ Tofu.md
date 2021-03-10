@@ -33,3 +33,6 @@ Super crispy tofu tossed in the most delicious Korean inspired BBQ sauce. Can be
 
 ## Notes
 If you have never worked with Gochujang before, it is a Korean chili paste, if you can't find it, your favorite chili sauce or paste will work
+
+## References
+‘Vegan Crispy Korean BBQ Tofu’. 2019. _Rabbit and Wolves_ (blog). 13 February 2019. [https://www.rabbitandwolves.com/vegan-crispy-korean-bbq-tofu/](https://www.rabbitandwolves.com/vegan-crispy-korean-bbq-tofu/).
