@@ -7,10 +7,10 @@
 - 2 Garlic Clove
 - 1 Onion
 - 1 nob ginger
-- 1 Red chilli
-- 1 tbsp curry Powder
+- 1 red chilli
+- 1 tbsp curry powder
 - 1 bag spinach
-- 1 tbsp Desiccated Coconut
+- 1 tbsp desiccated coconut
 - ½ bunch Coriander
 
 ## Instructions
