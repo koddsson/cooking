@@ -1,17 +1,17 @@
 # Coconut Dhal
 ## Ingredients
-- 150g Wholemeal Flour
-- ½ unit(s) Vegetable Stock Pot
-- 150g Red Split Lentils
-- 100ml Coconut Milk
-- 2 Garlic Clove
-- 1 Onion
+- 150g wholemeal flour
+- ½ unit(s) vegetable stock pot
+- 150g red split lentils
+- 100ml coconut milk
+- 2 garlic clove
+- 1 onion
 - 1 nob ginger
 - 1 red chilli
 - 1 tbsp curry powder
 - 1 bag spinach
 - 1 tbsp desiccated coconut
-- ½ bunch Coriander
+- ½ bunch coriander
 
 ## Instructions
 1. Put all but 2 tbsp of the flour into a high sided bowl with a good pinch of salt. Tip: You need 2 tbsp to dust your work surface later. Very gradually add the water (amount specified in the ingredient list) into your flour whilst you mix it with your hands. Keep mixing and adding until you have a soft (not soggy!) dough.
@@ -22,5 +22,6 @@
 6. When your lentils are ready, add them to your kale mixture and stir together. Taste and add more salt and pepper if needed.
 7. Finally, divide your dough into equal balls (2 per person) and roll out your chapatis until they are about ½ cm thick and as large as a big hand. Tip: If you don’t have a rolling pin you can use a wine bottle or even a tin can! Place them individually in a searing hot frying pan (without oil!) and cook on both sides until you see little dark brown spots form.
 8. Once your chapatis are done, remove and plate and then toast the desiccated coconut in the same hot pan. Chop up a bit of coriander and stir it through your dal. Scatter over some more coriander and your desiccated coconut before scooping it up with your chapatis!
+
 ## Referenced
 HelloFresh. 2016. ‘Coconut Dal with Homemade Chapati Recipe’. HelloFresh. 16 November 2016. [https://www.hellofresh.co.uk/recipes/coconut-dal-with-homemade-chapat-582c2e40383a7f55e43ca662](https://www.hellofresh.co.uk/recipes/coconut-dal-with-homemade-chapat-582c2e40383a7f55e43ca662).
