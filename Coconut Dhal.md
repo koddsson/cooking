@@ -6,9 +6,9 @@
 - 100ml Coconut Milk
 - 2 Garlic Clove
 - 1 Onion
-- 1 nob Ginger
-- 1 Red Chilli
-- 1 tbsp Curry Powder
+- 1 nob ginger
+- 1 Red chilli
+- 1 tbsp curry Powder
 - 1 bag spinach
 - 1 tbsp Desiccated Coconut
 - ½ bunch Coriander
