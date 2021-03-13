@@ -4,40 +4,15 @@
 - ½ unit(s) Vegetable Stock Pot
 - 150 grams Red Split Lentils
 - 100 milliliter(s) Coconut Milk
+- 1 unit(s) Garlic Clove
+- 1 unit(s) Onion
+- 1 unit(s) Ginger
+- ½ unit(s) Red Chilli
+- 1 tbsp Curry Powder
+- 1 bag spinach
+- 1 tbsp Desiccated Coconut
+- ½ bunch Coriander
 
-1 unit(s)
-
-Garlic Clove
-
-1 unit(s)
-
-Onion
-
-1 unit(s)
-
-Ginger
-
-½ unit(s)
-
-Red Chilli
-
-1 tbsp
-
-Curry Powder
-
-(ContainsMustard)
-
-1 bag(s)
-
-Kale
-
-1 tbsp
-
-Desiccated Coconut
-
-½ bunch(es)
-
-Coriander
 ## Instructions
 1. Put all but 2 tbsp of the flour into a high sided bowl with a good pinch of salt. Tip: You need 2 tbsp to dust your work surface later. Very gradually add the water (amount specified in the ingredient list) into your flour whilst you mix it with your hands. Keep mixing and adding until you have a soft (not soggy!) dough.
 2. Sprinkle the remaining flour onto your work surface and coat your dough in a drizzle of olive oil. Knead your dough by pushing it away from you on the work surface. Form it back into a ball and then push it away again. Once you’ve pummelled it for 5 mins, leave it to rest.
