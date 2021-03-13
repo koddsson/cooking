@@ -1,13 +1,13 @@
 # Coconut Dhal
 ## Ingredients
-- 150 grams Wholemeal Flour
+- 150g Wholemeal Flour
 - ½ unit(s) Vegetable Stock Pot
-- 150 grams Red Split Lentils
-- 100 milliliter(s) Coconut Milk
-- 1 unit(s) Garlic Clove
-- 1 unit(s) Onion
-- 1 unit(s) Ginger
-- ½ unit(s) Red Chilli
+- 150g Red Split Lentils
+- 100ml Coconut Milk
+- 2 Garlic Clove
+- 1 Onion
+- 1 nob Ginger
+- 1 Red Chilli
 - 1 tbsp Curry Powder
 - 1 bag spinach
 - 1 tbsp Desiccated Coconut
