@@ -14,3 +14,6 @@
 4. Add 1L of water and blend on high for 1 minute.
 5. Double strain the liquid into a 1L container using a cheesecloth-lined strainer and a towel.
 6. Serve immediately or refrigerate in a sealed container for up to 3 days.
+
+## Tags
+#drinks 

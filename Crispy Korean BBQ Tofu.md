@@ -2,8 +2,8 @@
 Super crispy tofu tossed in the most delicious Korean inspired BBQ sauce. Can be totally gluten free! Course: Main Course Servings: 4 Author: Lauren Hartmann
 
 ## Ingredients
--   Scallions for serving 
--   Rice for serving 
+-  Scallions for serving 
+-  Rice for serving 
 
 ### BBQ SAUCE
 - 1/2 Cup Tomato sauce, canned
