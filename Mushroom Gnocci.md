@@ -2,11 +2,11 @@
 ## Ingredients
 -   250g [Mushrooms](./Mushrooms.md)
 -   500g [[Gnocchi]]
--   3 tbsp [[Olive oil (or truffle oil)
--   160g bag spinach
--   100g blue cheese
-	-   Or feta cheese
-	-   Or just whatever cheese you have
+-   3 tbsp [[Olive oil]] (or truffle oil)
+-   160g bag [[Spinach]]
+-   100g [[Blue cheese]]
+	-   Or [[Feta cheese]]
+	-   Or just whatever [[Cheese]] you have
 
 ## Method
 1. Heat oven to 220C fan.
