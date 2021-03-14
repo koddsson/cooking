@@ -22,4 +22,4 @@ jobs:
           git config --local user.name "Actions Auto Build"
           git add -f .
           git commit -m "auto fix links" || true
-          git push --force origin HEAD:refs/heads/main
+          git push --force origin HEAD:refs/heads/view
