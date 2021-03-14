@@ -1,10 +1,12 @@
 # Mushroom Gnocci
 ## Ingredients
--   250g mushrooms
--   500g fresh gnocchi
--   3 tbsp olive oil (or truffle oil)
+-   250g [[Mushrooms]]
+-   500g [[Gnocchi]]
+-   3 tbsp [[Olive oil (or truffle oil)
 -   160g bag spinach
 -   100g blue cheese
+	-   Or feta cheese
+	-   Or just whatever cheese you have
 
 ## Method
 1. Heat oven to 220C fan.
