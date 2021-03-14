@@ -1,6 +1,6 @@
 # Mushroom Gnocci
 ## Ingredients
--   250g [Mushrooms](./Mushrooms.md)
+-   250g [[Mushrooms]]
 -   500g Gnocchi
 -   3 tbsp Olive oil (or truffle oil)
 -   160g bag Spinach
