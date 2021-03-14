@@ -20,6 +20,7 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "Actions Auto Build"
+          git fetch origin
           git checkout origin/view
           git add -f *.md
           git commit -m "auto fix links" || true
