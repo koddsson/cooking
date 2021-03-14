@@ -1,7 +1,7 @@
 # Mushroom Gnocci
 ## Ingredients
 -   250g [Mushrooms](./Mushrooms.md)
--   500g [[Gnocchi]]
+-   500g [Gnocchi](./Gnocchi.md)
 -   3 tbsp [[Olive oil]] (or truffle oil)
 -   160g bag [[Spinach]]
 -   100g [[Blue cheese]]
