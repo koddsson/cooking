@@ -1,6 +1,6 @@
 # Oat Milk
 ## Ingredients
--   100g rolled oats
+-   100g [[Rolled oats]]
 -   1 tsp salt
 -   1 tsp vanilla extract, optional
 -   1 tbsp syrup
