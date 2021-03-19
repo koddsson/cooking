@@ -46,3 +46,6 @@ Remove from dutch oven, let loaf cool 1 hour on a rack or tilted up on its side,
 ### Notes
 - This type of bread is always best served _toasted!_
 - Store the bread wrapped in a kitchen towel for the first day or two to keep the crust nice and crispy, then move it to a zip lock bag to keep it moist for longer.
+
+## References
+‘No-Knead Sourdough Bread’. 2020. Feasting At Home. 11 April 2020. [https://www.feastingathome.com/sourdough-bread/](https://www.feastingathome.com/sourdough-bread/).
