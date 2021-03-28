@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 100g [[Rolled oats]]
+- 100g Rolled oats
 - 1 tsp salt
 - 1 tsp vanilla extract, optional
 - 1 tbsp syrup

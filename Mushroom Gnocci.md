@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 250g [[Mushrooms]]
+- 250g [Mushrooms](./Mushrooms.md)
 - 500g gnocchi
 - 3 tbsp olive oil (or truffle oil)
 - 160g bag spinach
