@@ -1,8 +1,7 @@
 # Mushroom Gnocci
 
 ## Ingredients
-
-- 250g [Mushrooms](./Mushrooms.md)
+- 250g Mushrooms
 - 500g gnocchi
 - 3 tbsp olive oil (or truffle oil)
 - 160g bag spinach
@@ -20,6 +19,8 @@
 6. Put it back in the oven to melt the cheese
 7. Serve with the remaining spinach, drizzled with a little olive oil.
 
-## References
+## See also
+[[Mushrooms]]
 
+## References
 https://www.bbcgoodfood.com/recipes/roast-mushroom-gnocchi
