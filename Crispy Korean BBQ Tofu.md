@@ -1,16 +1,13 @@
 # Crispy Korean BBQ Tofu
-
 Super crispy tofu tossed in the most delicious Korean inspired BBQ sauce.
 
 Servings: 4
 
 ## Ingredients
-
 - Scallions for serving
 - Rice for serving
 
 ### BBQ SAUCE
-
 - 1/2 Cup Tomato sauce, canned
 - 1/4 Cup Rice Wine Vinegar
 - 1/4 Cup Soy sauce or liquid aminos
@@ -22,14 +19,12 @@ Servings: 4
 - 1 Tablespoon Sesame seeds
 
 ### Tofu
-
 - 1 Teaspoon Salt
 - Oil for frying
 - 1 Block(15oz.) Extra firm tofu
 - 1/2 Cup Corn starch
 
 ## Instructions
-
 - 1. Start by pressing your tofu. I will link to my tofu guide below if you would like a step by step of that process. Press the block of tofu for at least 30 minutes, the longer the better. You can even do it in the morning before you plan to make it.
 - 2. When you are ready to eat, make the Korean BBQ sauce first. In a medium sized mixing bowl, whisk together the tomato sauce, rice wine vinegar, soy sauce, agave, Gochujang, the finely grated apple, garlic and ginger, and the sesame seeds. Whisk until combined. Set aside.
 - 3. Then, take your pressed block of tofu, cut into cubes, or thinner rectangular slices like I did. Whatever you prefer. Add the tofu to a large mixing bowl, then sprinkle with the corn starch and salt. Toss to coat all of the tofu.

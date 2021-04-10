@@ -1,12 +1,10 @@
 # Plums
 
 ## When in season
-
 Available year round but British ones are in season from mid-August to October.
 
-## Ways to cook
-
-- Lacto Plums
+## See also
+[[Lacto Plums]]
 
 ## References
 

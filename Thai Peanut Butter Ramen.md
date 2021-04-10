@@ -28,7 +28,10 @@
 5. Transfer the chicken to a plate. Shred with two forks. If you find the inside of the chicken is still pink, return it to the pot and cook for a few more minutes, until it just cooked through.  
 6. Turn to medium-high heat and bring to a boil. Add the instant noodles and bell peppers. Boil according to the package instructions until the noodles turn tender, 2 to 3 minutes.  
 7. Turn off the heat. Add back the chicken and lime juice. Stir to mix well. Taste the broth. You can adjust the taste by adding more salt. If the broth is too spicy, you can add more sugar to balance the hot taste.  
-8. Serve hot with more lime wedges and cilantro, if using.  
+8. Serve hot with more lime wedges and cilantro, if using.
+
+## See also
+[[Thai food]]
     
 ## Notes
 1.  The amount of Thai curry paste depends on the brand you use. Some brands produce a very spicy paste. In this case, 2 tablespoons are more than enough heat for the dish. Some brands make much milder pastes, such that you can use up to 4 tablespoons and the dish still won’t taste too spicy. I recommend you add 1 to 2 tablespoons first. You can taste the broth at step 4 and add more paste if needed.
