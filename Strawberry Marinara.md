@@ -17,4 +17,8 @@
 3. Add all the ingrediences except salt and lime juice and simmer uncovered, strirring often, until the sauce becomes as thick and intesnely flavored as rich marinara, about 35 minutes.
 4. Season the sauce and serve it warm.
 
+## See also
+[[Strawberries]]
+
 ## References
+Myhrvold, Nathan, Maxime Bilet, and Melissa Lehuta. _Modernist Cuisine at Home_. 1st ed. Bellevue, WA: Cooking Lab, 2012. pg 114.
