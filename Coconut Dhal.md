@@ -1,7 +1,6 @@
 # Coconut Dhal
 
 ## Ingredients
-- 150g wholemeal flour
 - ½ unit(s) vegetable stock pot
 - 150g red split lentils
 - 200ml coconut milk
@@ -17,13 +16,14 @@
 - 3 tbsp butter
 
 ## Instructions
-1. Sprinkle the remaining flour onto your work surface and coat your dough in a drizzle of olive oil. Knead your dough by pushing it away from you on the work surface. Form it back into a ball and then push it away again. Once you’ve pummelled it for 5 mins, leave it to rest.
-2. In a medium-sized pot, boil the water (amount specified in the ingredient list) and add the vegetable stock pot. Rinse the lentils under running water for at least 30 seconds (important for improving flavour!). Pour your lentils into the boiling stock and reduce to a gentle simmer. Cook for 10 mins before adding the coconut milk. Cook for a further 5 mins then turn off the heat.
-3. To make the dal, peel and finely chop the garlic and onion. Peel the skin from the ginger using the edge of a spoon and then chop it finely. Cut the red chilli in half lengthways and finely chop.
-4. Heat the butter in a frying pan on medium heat and add your onion. Fry until your veggies have softened, 4-5 mins, then add your garlic, ginger and as much chilli as you dare. Cook for a couple of mins and then stir in the curry powder.
-5. Wilt the spinach in a pan and toast the desiccated coconut in a hot pan.
-6. Once the spinach is wilted and the coconut is toasted, combine along with veggies and coriander to the lentils. Stir to combine and simmer for 10 minutes.
-7. Serve with naan or chapatis.
+1. In a medium-sized pot, boil 250ml of water and add the vegetable stock pot.
+2. Rinse the lentils under running water for at least 30 seconds (important for improving flavour!). Pour your lentils into the boiling stock and reduce to a gentle simmer. Cook for 10 mins.
+3. Add the coconut milk. Cook for a further 5 mins then turn off the heat.
+4. Peel and finely chop the garlic and onion. Peel the skin from the ginger using the edge of a spoon and then chop it finely. Cut the red chilli in half lengthways and finely chop.
+5. Heat the butter in a frying pan on medium heat and add your onion. Fry until your veggies have softened, 4-5 mins, then add your garlic, ginger and as much chilli as you dare. Cook for a couple of mins and then stir in the curry powder.
+6. Wilt the spinach in a pan and toast the desiccated coconut in a hot pan.
+7. Once the spinach is wilted and the coconut is toasted, combine along with veggies and coriander to the lentils. Stir to combine and simmer for 10 minutes.
+8. Serve with naan or chapatis.
 
 ## See also
 [[Indian food]]
