@@ -1,3 +1,6 @@
+## Notes
+Start with soaking your shitake mushrooms if you got dried ones. This is _really_ spicy in its current form, I plan on skipping chili oil next time I make this and see if that makes it more bearable for my tastes. Still delishious though!
+
 ## Ingredients
 
 - [ ] 4 tablespoons vegetable oil
