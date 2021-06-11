@@ -1,5 +1,4 @@
 # Blueberry-Lavender Shrub
-
 ## Ingredients
 - 1 pint organic blueberries
 - 1 cup sugar
