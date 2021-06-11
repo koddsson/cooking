@@ -1,10 +1,10 @@
 # Blueberry-Lavender Shrub
 
 ## Ingredients
-- [ ] 1 pint organic blueberries
-- [ ] 1 cup sugar
-- [ ] 8-10 lavender sprigs
-- [ ] 1 cup apple cider vinegar
+- 1 pint organic blueberries
+- 1 cup sugar
+- 8-10 lavender sprigs
+- 1 cup apple cider vinegar
 
 ## Process
 1. Place blueberries and sugar into a medium bowl. Crush the berries and then stir to combine.
