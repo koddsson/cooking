@@ -16,5 +16,9 @@
 8. Pour syrup-vinegar mixture into a clean mason jar. Cap it, shake it well to incorporate any undissolved sugar, and place in the refrigerator for a week before using.
 9. Discard the solids or save them for another use.
 
+## See also
+[[Shrubs]]
+[[Drinks]]
+
 ## References
 Dietsch, Michael. _Shrubs: An Old Fashioned Drink for Modern Times : Recipes for Savoury, Sweet and Sour Cocktails and Sophisticated Sodas_, 2014.
