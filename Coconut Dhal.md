@@ -26,7 +26,7 @@
 8. Serve with naan or chapatis.
 
 ## See also
-[[Indian food]]
+Indian food
 
 ## Referenced
 HelloFresh. 2016. ‘Coconut Dal with Homemade Chapati Recipe’. HelloFresh. 16 November 2016. [https://www.hellofresh.co.uk/recipes/coconut-dal-with-homemade-chapat-582c2e40383a7f55e43ca662](https://www.hellofresh.co.uk/recipes/coconut-dal-with-homemade-chapat-582c2e40383a7f55e43ca662).

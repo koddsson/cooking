@@ -31,7 +31,7 @@
 8. Serve hot with more lime wedges and cilantro, if using.
 
 ## See also
-[[Thai food]]
+Thai food
     
 ## Notes
 1.  The amount of Thai curry paste depends on the brand you use. Some brands produce a very spicy paste. In this case, 2 tablespoons are more than enough heat for the dish. Some brands make much milder pastes, such that you can use up to 4 tablespoons and the dish still won’t taste too spicy. I recommend you add 1 to 2 tablespoons first. You can taste the broth at step 4 and add more paste if needed.

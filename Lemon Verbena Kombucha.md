@@ -18,7 +18,7 @@
 9. Remove the SCOBY. Strain and bottle the kombucha.
 
 ## See also
-[[Kombucha]]
+[Kombucha](./Kombucha.md)
 
 ## References
 Redzepi, René, and David Zilber. _The Noma Guide to Fermentation: Foundations of Flavor_. Foundations of Flavor. New York: Artisan, 2018.

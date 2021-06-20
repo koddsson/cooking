@@ -37,7 +37,7 @@
 -   Cut the baguette in half and then slice each baguette lengthwise to open. Generously spread the creamy Banh Mi sauce over both sides of each baguette. Add cooked tofu and a small handful of pickled carrots and cucumber. Top with fresh cilantro and jalapeño and serve immediately.
 
 ## See also
-[[Vietnamese food]]
+Vietnamese food
 
 ## References
 My Darling Vegan. ‘Tofu Banh Mi’, 18 April 2018. [https://www.mydarlingvegan.com/tofu-banh-mi/](https://www.mydarlingvegan.com/tofu-banh-mi/).
