@@ -1,4 +1,4 @@
-name: Fix links
+name: Compile Markdown
 
 on:
   push:
