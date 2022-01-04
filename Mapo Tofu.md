@@ -27,3 +27,9 @@ Start with soaking your shitake mushrooms if you got dried ones. This is _really
 4. Add the spicy bean sauce and chili oil to the mixture and stir it in well. Turn up the heat to high, and add ⅔ cups water or broth and stir. Bring the mixture up to a simmer, and allow to bubble for 1 minute.
 5. Stir the cornstarch and water mixture to make sure the cornstarch is dissolved, and add it to the sauce. Allow the sauce to thicken (if it gets too thick, splash in more water or stock). If the sauce is too thin, make a little more cornstarch slurry and add it in. There will be variations depending on how high your heat is.
 6. Add the tofu to the wok and gently toss the tofu in the sauce. Allow the tofu to simmer for 3-5 minutes, and then add the sesame oil, sugar, and scallions. 
+
+## See also
+[[Tofu]]
+
+## References
+#TK
