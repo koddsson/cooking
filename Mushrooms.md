@@ -1,6 +1,6 @@
 # Mushrooms
-
-## Storage
+#TK: Image
+## Notes
 Mushrooms want to breathe, leave them in your fridge in a open paper bag. Leaving mushrooms in a sealed container can bruise them and make them slimey.
 
 ## See also

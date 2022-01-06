@@ -1,7 +1,5 @@
 # Crispy Korean BBQ Tofu
-Super crispy tofu tossed in the most delicious Korean inspired BBQ sauce.
-
-Servings: 4
+> Super crispy tofu tossed in the most delicious Korean inspired BBQ sauce.
 
 ## Ingredients
 - Scallions for serving
@@ -34,7 +32,8 @@ Servings: 4
 7. Toss to coat the tofu, and cook for a minute. Then remove from heat. Serve with rice and veggies. Drizzle the remaining sauce over the top and garnish with scallions or chives!
 
 ## Notes
-If you have never worked with Gochujang before, it's a Korean chili paste, if you can't find it, your favorite chili sauce or paste will work
+- Serves 4.
+- If you have never worked with Gochujang before, it's a Korean chili paste, if you can't find it, your favorite chili sauce or paste will work.
 
 ## See also
 [[Korean food]]

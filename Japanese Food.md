@@ -1,5 +1,7 @@
 # Japanese Food
->Japanese cuisine encompasses the regional and traditional foods of Japan, which have developed through centuries of political, economic, and social changes.
+> Japanese cuisine encompasses the regional and traditional foods of Japan, which have developed through centuries of political, economic, and social changes.
+
+#TK: Image
 
 ## See also
 [[Food]]

@@ -1,5 +1,6 @@
 # Mushroom Gnocci
 
+#TK: Image
 ## Ingredients
 - 250g Mushrooms
 - 500g gnocchi
@@ -10,7 +11,6 @@
   - Or whatever cheese you have
 
 ## Method
-
 1. Heat oven to 220C fan.
 2. Slice the mushrooms and put in a roasting tin with the gnocchi
 3. Drizzle over 3 tbsp olive oil.
@@ -21,7 +21,7 @@
 
 ## See also
 [[Mushrooms]]
-#pastadishes
+[[Pasta]]
 
 ## References
 https://www.bbcgoodfood.com/recipes/roast-mushroom-gnocchi

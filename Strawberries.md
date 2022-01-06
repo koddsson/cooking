@@ -1,6 +1,8 @@
 # Strawberries
 In season from late May till September.
 
+#TK: Image
+
 ## See also
 [[Food]]
 

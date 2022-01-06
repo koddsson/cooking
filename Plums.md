@@ -1,6 +1,8 @@
 # Plums
 
-## When in season
+#TK: Image
+
+## Notes
 Available year round but British ones are in season from mid-August to October.
 
 ## See also

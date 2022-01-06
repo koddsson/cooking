@@ -1,8 +1,8 @@
+# Mapo Tofu
 ## Notes
 Start with soaking your shitake mushrooms if you got dried ones. This is _really_ spicy in its current form, I plan on skipping chili oil next time I make this and see if that makes it more bearable for my tastes. Still delishious though!
 
 ## Ingredients
-
 - [ ] 4 tablespoons vegetable oil
 - [ ] 1 1/2 tablespoons Sichuan peppercorns (coarsely ground, reserve 1/4 teaspoon for garnish at the end)
 - [ ] 3 tablespoons ginger (finely minced)
@@ -20,7 +20,6 @@ Start with soaking your shitake mushrooms if you got dried ones. This is _really
 - [ ] 1 scallion (finely chopped)
 
 ## Instructions
-
 1. In a wok over medium low heat, add the vegetable oil and ground Sichuan peppercorns (remember to reserve ¼ teaspoon for garnishing the dish at the end).
 2. Cook for 30 seconds, and add the ginger. Cook for another 1 minute and add the garlic. Cook for another 1 minute. Add the black beans, and chilies. Cook for another 1-2 minutes.
 3. Turn up the heat to medium, and add the mushrooms. Cook until the mushrooms are cooked down and slightly caramelized, about 5 minutes.

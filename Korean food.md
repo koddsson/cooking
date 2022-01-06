@@ -1,6 +1,8 @@
 # Korean Food
 >Korean cuisine has evolved through centuries of social and political change. Originating from ancient agricultural and nomadic traditions in Korea and southern Manchuria, Korean cuisine reflects a complex interaction of the natural environment and different cultural trends.
 
+#TK: Image
+
 ## See also
 [[Food]]
 
