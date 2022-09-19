@@ -20,8 +20,8 @@
 7. Serve with the remaining spinach, drizzled with a little olive oil.
 
 ## See also
-[[Mushrooms]]
-[[Pasta]]
+[Mushrooms](./Mushrooms.md)
+Pasta
 
 ## References
 https://www.bbcgoodfood.com/recipes/roast-mushroom-gnocchi

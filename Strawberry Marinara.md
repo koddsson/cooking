@@ -19,7 +19,7 @@
 4. Season the sauce and serve it warm.
 
 ## See also
-[[Strawberries]]
+[Strawberries](./Strawberries.md)
 
 ## References
 Myhrvold, Nathan, Maxime Bilet, and Melissa Lehuta. _Modernist Cuisine at Home_. 1st ed. Bellevue, WA: Cooking Lab, 2012. pg 114.

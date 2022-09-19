@@ -41,8 +41,8 @@ Once tofu is marinated, heat oil in a **large skillet** over medium heat. Once t
 Cut the baguette in half and then slice each baguette lengthwise to open. Generously spread the creamy Banh Mi sauce over both sides of each baguette. Add cooked tofu and a small handful of pickled carrots and cucumber. Top with fresh cilantro and jalapeño and serve immediately.
 
 ## See also
-[[Vietnamese food]]
-[[Tofu]]
+Vietnamese food
+[Tofu](./Tofu.md)
 
 ## References
 My Darling Vegan. ‘Tofu Banh Mi’, 18 April 2018. [https://www.mydarlingvegan.com/tofu-banh-mi/](https://www.mydarlingvegan.com/tofu-banh-mi/).

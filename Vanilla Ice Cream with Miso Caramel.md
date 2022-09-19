@@ -2,7 +2,7 @@
 ## Ingredience
 -   3 scoops of Vanilla Ice Cream
 -   A handful of Sweet and Salty popcorn
--   [[Miso Caramel]]
+-   Miso Caramel
 -  Chocolate or almonds or both!
 
 ## Method
@@ -13,4 +13,4 @@
 - Sprinkle the ice cream with chocolate, almonds or both. 
 
 ## See also
-[[Miso Caramel]]
+Miso Caramel

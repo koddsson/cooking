@@ -33,4 +33,4 @@
 
 
 ## See also
-[[Drinks]]
+[Drinks](./Drinks.md)

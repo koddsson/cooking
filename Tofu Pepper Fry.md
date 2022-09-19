@@ -60,7 +60,7 @@ Serves 4.
 10. Stir the chopped coriander through the curry. Serve in deep bowls dotted with the fried curry leaves, with coriander on the side, lemon wedges for squeezing and plenty of parathas to mop up the rich sauce. 
 
 ## See also
-[[Indian food]]
+Indian food
 
 ## References
 Thakrar, Shamil, Kavi Thakrar, and Naved Nasir. _Dishoom: ‘From Bombay with Love’_. London: Bloomsbury Publishing, 2019.

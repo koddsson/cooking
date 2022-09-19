@@ -28,7 +28,7 @@ Start with soaking your shitake mushrooms if you got dried ones. This is _really
 6. Add the tofu to the wok and gently toss the tofu in the sauce. Allow the tofu to simmer for 3-5 minutes, and then add the sesame oil, sugar, and scallions. 
 
 ## See also
-[[Tofu]]
+[Tofu](./Tofu.md)
 
 ## References
 #TK

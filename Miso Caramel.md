@@ -4,7 +4,7 @@
 -   3/4 cup sugar  
 -   1/4 cup water  
 -   1/2 cup double cream  
--   2 tablespoons white [[miso]]
+-   2 tablespoons white [miso](./miso.md)
 
 ## Method
 1. In a heavy saucepan set over medium-high heat, stir together sugar and water. Without additional stirring, bring the mixture to a boil. Use a wet pastry brush to wash down any sugar crystals that form on the sides of the pan. When sugar becomes a deep golden brown, remove the pan from heat.

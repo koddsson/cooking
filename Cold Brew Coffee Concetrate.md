@@ -11,4 +11,4 @@
 | 1.5L coldbrew       | 250g coffee      | 1.5L water      |
 
 ## See also
-[[Drinks]]
+[Drinks](./Drinks.md)

@@ -58,8 +58,8 @@ Yields 3L 
 3. Ladle the hot ramen broth over the noodles and garnish as desired. Serve immediately.
 
 ## See also
-[[Japanese Food]]
-[[Mushrooms]]
+Japanese Food
+[Mushrooms](./Mushrooms.md)
 
 ## References
 Noma Projects. ‘Vegan Ramen’. Accessed 26 March 2022. [https://nomaprojects.com/blogs/recipes/vegan-ramen](https://nomaprojects.com/blogs/recipes/vegan-ramen).

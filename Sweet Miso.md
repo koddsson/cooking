@@ -14,7 +14,7 @@
 Stir all the ingredients together until the sugar has dissolved. This will keep in the fridge more or less indefinitely.
 
 ## See also
-[[Miso]]
+[Miso](./Miso.md)
 
 ## References
 Anderson, Tim. _Vegan JapanEasy: Classic & Modern Vegan Japanese Recipes to Cook at Home_, 2020.

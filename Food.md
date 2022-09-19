@@ -5,6 +5,6 @@ Some years ago I decided to try to consume as few animal products as I could. I 
 
 So my recipies will either call for vegan ingredience specifically or just call milk, milk and when I'm making food, I'll use oat or soy or almond milk.
 
-Since I moved to London some years ago I've really enjoyed eating [[Indian food]]. There's a vegeterian/vegan indian place in my neighborhood that's increadibly good.
+Since I moved to London some years ago I've really enjoyed eating Indian food. There's a vegeterian/vegan indian place in my neighborhood that's increadibly good.
 
-I really love a good [[Pizza]] but it's hard for me to make at home. I always prefer pizzas made by someone with access to good sourdough and a wood fire oven. I've made some progress with a pizza stone, but I need to get better at making pizzas.
+I really love a good [Pizza](./Pizza.md) but it's hard for me to make at home. I always prefer pizzas made by someone with access to good sourdough and a wood fire oven. I've made some progress with a pizza stone, but I need to get better at making pizzas.

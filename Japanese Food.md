@@ -4,7 +4,7 @@
 #TK: Image
 
 ## See also
-[[Food]]
+[Food](./Food.md)
 
 ## References
 ‘Japanese Cuisine’. In _Wikipedia_, 30 October 2021. [https://en.wikipedia.org/w/index.php?title=Japanese_cuisine&oldid=1052731484](https://en.wikipedia.org/w/index.php?title=Japanese_cuisine&oldid=1052731484).
