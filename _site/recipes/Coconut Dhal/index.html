@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My cooking site</title>
+    <style>
+      @import "https://unpkg.com/open-props";
+      @import "https://unpkg.com/open-props/normalize.min.css";
+      body {
+        padding: var(--size-2) var(--size-4);
+      }
+      p {
+        margin-bottom: var(--size-4);
+      
+
+      footer {
+        text-align: center;
+      }
+
+      .copy-left {
+        display: inline-block;
+        transform: scaleX(-1);
+      }
+    </style>
+    <script type="module" defer>
+      const data = {
+        nodes: [
+          
+            {"id": "Coconut Dhal"},
+          
+            {"id": "Cold Brew Coffee Concetrate"},
+          
+            {"id": "Crispy Korean BBQ Tofu"},
+          
+            {"id": "Mushroom Gnocci"},
+          
+            {"id": "Oat Milk"},
+          
+            {"id": "No-knead Sourdough Bread"},
+          
+            {"id": "Thai Peanut Butter Ramen"},
+          
+            {"id": "Lemon Verbena Kombucha"},
+          
+            {"id": "Tofu Banh Mi"},
+          
+            {"id": "Strawberries"},
+          
+            {"id": "Strawberry Marinara"},
+          
+            {"id": "Mapo Tofu"},
+          
+            {"id": "Blueberry-Lavender Shrub"},
+          
+            {"id": "Watermelon-Basil Shrub"},
+          
+            {"id": "Drinks"},
+          
+            {"id": "Kombucha"},
+          
+            {"id": "Shrubs"},
+          
+            {"id": "Food"},
+          
+            {"id": "Thai food"},
+          
+            {"id": "Indian food"},
+          
+            {"id": "Vietnamese food"},
+          
+            {"id": "Fermented foods"},
+          
+            {"id": "Miso"},
+          
+            {"id": "Japanese Food"},
+          
+            {"id": "Korean food"},
+          
+            {"id": "Sweet Miso"},
+          
+            {"id": "Yeast Pizza Dough"},
+          
+            {"id": "Vanilla Ice Cream with Miso Caramel"},
+          
+            {"id": "Pizza"},
+          
+            {"id": "Bread"},
+          
+            {"id": "Tofu Pepper Fry"},
+          
+            {"id": "Mushroom Ramen"},
+          
+            {"id": "Miso Caramel"},
+          
+            {"id": "Italian food"},
+          
+            {"id": "Deserts"},
+          
+            {"id": "Chinese food"},
+          
+        ],
+        links: [
+          
+            
+          
+            
+              {"source":"Cold Brew Coffee Concetrate","target":"Drinks"},
+            
+          
+            
+          
+            
+          
+            
+              {"source":"Oat Milk","target":"Drinks"},
+            
+          
+            
+              {"source":"No-knead Sourdough Bread","target":"Bread"},
+            
+          
+            
+          
+            
+              {"source":"Lemon Verbena Kombucha","target":"Kombucha"},
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              {"source":"Blueberry-Lavender Shrub","target":"Shrubs"},
+            
+              {"source":"Blueberry-Lavender Shrub","target":"Drinks"},
+            
+          
+            
+              {"source":"Watermelon-Basil Shrub","target":"Shrubs"},
+            
+              {"source":"Watermelon-Basil Shrub","target":"Drinks"},
+            
+          
+            
+          
+            
+              {"source":"Kombucha","target":"Drinks"},
+            
+          
+            
+              {"source":"Shrubs","target":"Drinks"},
+            
+          
+            
+          
+            
+              {"source":"Thai food","target":"Food"},
+            
+          
+            
+              {"source":"Indian food","target":"Food"},
+            
+          
+            
+              {"source":"Vietnamese food","target":"Food"},
+            
+          
+            
+              {"source":"Fermented foods","target":"Food"},
+            
+          
+            
+          
+            
+              {"source":"Japanese Food","target":"Food"},
+            
+          
+            
+              {"source":"Korean food","target":"Food"},
+            
+          
+            
+              {"source":"Sweet Miso","target":"Miso"},
+            
+          
+            
+              {"source":"Yeast Pizza Dough","target":"Bread"},
+            
+              {"source":"Yeast Pizza Dough","target":"Pizza"},
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              {"source":"Miso Caramel","target":"Miso"},
+            
+          
+            
+          
+            
+          
+            
+          
+        ]
+      }
+      import * as d3 from "https://cdn.skypack.dev/d3@7";
+      import {ForceGraph} from '/graph.js';
+      const chart = ForceGraph(data, {
+        nodeId: d => d.id,
+        nodeTitle: d => d.id,
+        nodeRadius: 7,
+        height: 680
+      })
+      document.body.append(chart)
+    </script>
+  </head>
+  <body>
+    <h1>Coconut Dhal</h1>
+<p>#TK: Image</p>
+<h2>Ingredients</h2>
+<ul>
+<li>½ unit(s) vegetable stock pot</li>
+<li>150g red split lentils</li>
+<li>200ml coconut milk</li>
+<li>3-4 garlic clove</li>
+<li>1 onion</li>
+<li>1 nob ginger</li>
+<li>1 red chilli</li>
+<li>1 tsp chili flakes</li>
+<li>1 tbsp curry powder</li>
+<li>1 bag spinach</li>
+<li>2 tbsp desiccated coconut</li>
+<li>½ bunch coriander</li>
+<li>3 tbsp butter</li>
+</ul>
+<h2>Instructions</h2>
+<ol>
+<li>In a medium-sized pot, boil 250ml of water and add the vegetable stock pot.</li>
+<li>Rinse the lentils under running water for at least 30 seconds (important for improving flavour!). Pour your lentils into the boiling stock and reduce to a gentle simmer. Cook for 10 mins.</li>
+<li>Add the coconut milk. Cook for a further 5 mins then turn off the heat.</li>
+<li>Peel and finely chop the garlic and onion. Peel the skin from the ginger using the edge of a spoon and then chop it finely. Cut the red chilli in half lengthways and finely chop.</li>
+<li>Heat the butter in a frying pan on medium heat and add your onion. Fry until your veggies have softened, 4-5 mins, then add your garlic, ginger and as much chilli as you dare. Cook for a couple of mins and then stir in the curry powder.</li>
+<li>Wilt the spinach in a pan and toast the desiccated coconut in a hot pan.</li>
+<li>Once the spinach is wilted and the coconut is toasted, combine along with veggies and coriander to the lentils. Stir to combine and simmer for 10 minutes.</li>
+<li>Serve with naan or chapatis.</li>
+</ol>
+<h2>See also</h2>
+<p>[[Indian food]]</p>
+<h2>Referenced</h2>
+<p>HelloFresh. 2016. ‘Coconut Dal with Homemade Chapati Recipe’. HelloFresh. 16 November 2016. <a href="https://www.hellofresh.co.uk/recipes/coconut-dal-with-homemade-chapat-582c2e40383a7f55e43ca662">https://www.hellofresh.co.uk/recipes/coconut-dal-with-homemade-chapat-582c2e40383a7f55e43ca662</a>.</p>
+
+
+    <footer>
+      2022 <span class="copy-left">©</span> Kristján Oddsson
+    </footer>
+  </body>
+</html>

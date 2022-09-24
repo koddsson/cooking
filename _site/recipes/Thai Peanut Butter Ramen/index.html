@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My cooking site</title>
+    <style>
+      @import "https://unpkg.com/open-props";
+      @import "https://unpkg.com/open-props/normalize.min.css";
+      body {
+        padding: var(--size-2) var(--size-4);
+      }
+      p {
+        margin-bottom: var(--size-4);
+      
+
+      footer {
+        text-align: center;
+      }
+
+      .copy-left {
+        display: inline-block;
+        transform: scaleX(-1);
+      }
+    </style>
+    <script type="module" defer>
+      const data = {
+        nodes: [
+          
+            {"id": "Coconut Dhal"},
+          
+            {"id": "Cold Brew Coffee Concetrate"},
+          
+            {"id": "Crispy Korean BBQ Tofu"},
+          
+            {"id": "Mushroom Gnocci"},
+          
+            {"id": "Oat Milk"},
+          
+            {"id": "No-knead Sourdough Bread"},
+          
+            {"id": "Thai Peanut Butter Ramen"},
+          
+            {"id": "Lemon Verbena Kombucha"},
+          
+            {"id": "Tofu Banh Mi"},
+          
+            {"id": "Strawberries"},
+          
+            {"id": "Strawberry Marinara"},
+          
+            {"id": "Mapo Tofu"},
+          
+            {"id": "Blueberry-Lavender Shrub"},
+          
+            {"id": "Watermelon-Basil Shrub"},
+          
+            {"id": "Drinks"},
+          
+            {"id": "Kombucha"},
+          
+            {"id": "Shrubs"},
+          
+            {"id": "Food"},
+          
+            {"id": "Thai food"},
+          
+            {"id": "Indian food"},
+          
+            {"id": "Vietnamese food"},
+          
+            {"id": "Fermented foods"},
+          
+            {"id": "Miso"},
+          
+            {"id": "Japanese Food"},
+          
+            {"id": "Korean food"},
+          
+            {"id": "Sweet Miso"},
+          
+            {"id": "Yeast Pizza Dough"},
+          
+            {"id": "Vanilla Ice Cream with Miso Caramel"},
+          
+            {"id": "Pizza"},
+          
+            {"id": "Bread"},
+          
+            {"id": "Tofu Pepper Fry"},
+          
+            {"id": "Mushroom Ramen"},
+          
+            {"id": "Miso Caramel"},
+          
+            {"id": "Italian food"},
+          
+            {"id": "Deserts"},
+          
+            {"id": "Chinese food"},
+          
+        ],
+        links: [
+          
+            
+          
+            
+              {"source":"Cold Brew Coffee Concetrate","target":"Drinks"},
+            
+          
+            
+          
+            
+          
+            
+              {"source":"Oat Milk","target":"Drinks"},
+            
+          
+            
+              {"source":"No-knead Sourdough Bread","target":"Bread"},
+            
+          
+            
+          
+            
+              {"source":"Lemon Verbena Kombucha","target":"Kombucha"},
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              {"source":"Blueberry-Lavender Shrub","target":"Shrubs"},
+            
+              {"source":"Blueberry-Lavender Shrub","target":"Drinks"},
+            
+          
+            
+              {"source":"Watermelon-Basil Shrub","target":"Shrubs"},
+            
+              {"source":"Watermelon-Basil Shrub","target":"Drinks"},
+            
+          
+            
+          
+            
+              {"source":"Kombucha","target":"Drinks"},
+            
+          
+            
+              {"source":"Shrubs","target":"Drinks"},
+            
+          
+            
+          
+            
+              {"source":"Thai food","target":"Food"},
+            
+          
+            
+              {"source":"Indian food","target":"Food"},
+            
+          
+            
+              {"source":"Vietnamese food","target":"Food"},
+            
+          
+            
+              {"source":"Fermented foods","target":"Food"},
+            
+          
+            
+          
+            
+              {"source":"Japanese Food","target":"Food"},
+            
+          
+            
+              {"source":"Korean food","target":"Food"},
+            
+          
+            
+              {"source":"Sweet Miso","target":"Miso"},
+            
+          
+            
+              {"source":"Yeast Pizza Dough","target":"Bread"},
+            
+              {"source":"Yeast Pizza Dough","target":"Pizza"},
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              {"source":"Miso Caramel","target":"Miso"},
+            
+          
+            
+          
+            
+          
+            
+          
+        ]
+      }
+      import * as d3 from "https://cdn.skypack.dev/d3@7";
+      import {ForceGraph} from '/graph.js';
+      const chart = ForceGraph(data, {
+        nodeId: d => d.id,
+        nodeTitle: d => d.id,
+        nodeRadius: 7,
+        height: 680
+      })
+      document.body.append(chart)
+    </script>
+  </head>
+  <body>
+    <h1>Thai Peanut Butter Ramen</h1>
+<p>#TK: Image</p>
+<h2>Ingredients</h2>
+<h3>Broth</h3>
+<ul>
+<li>1 tablespoon peanut oil (or vegetable oil)</li>
+<li>1/2 onion , sliced</li>
+<li>3 cloves garlic , sliced</li>
+<li>2 teaspoons ginger , minced</li>
+<li>2 to 4 tablespoons Thai red curry paste (see notes)</li>
+<li>4 cups vegetable broth</li>
+<li>1 can (14oz / 400 ml) full-fat coconut milk</li>
+<li>1/3 cup unsweetened natural peanut butter</li>
+<li>3 tablespoons soy sauce</li>
+<li>1 tablespoon sugar</li>
+</ul>
+<h3>Toppings</h3>
+<ul>
+<li>225g protein or roasted sweet potato</li>
+<li>225g mushrooms , sliced</li>
+<li>1 bell pepper , sliced</li>
+<li>2 pieces (total 7 oz / 200 g) Instant noodles</li>
+<li>1 lime , juiced (and more lime wedges to garnish)</li>
+<li>Chopped cilantro for garnish (Optional)</li>
+</ul>
+<h3>Instructions</h3>
+<ol>
+<li>Heat oil in a 4-quart (3.78-lite dutch oven (or heavy poover medium-high heat until hot. Add the onion. Cook and stir for 1 minute.</li>
+<li>Add the garlic, ginger, and red curry paste. Cook and stir for another minute or so, until it becomes very fragrant and the curry paste evenly coats the veggies.</li>
+<li>Add the vegetable broth. Use a spatula to scrape the bottom of the dutch oven to release the brown bits. Add the coconut milk, peanut butter, soy sauce, and sugar. Stir to mix well. Try to use your spatula to break apart the peanut butter. The peanut butter will melt into the broth once it starts simmering. Taste the broth. You can add more Thai red curry paste if the broth is not spicy enough.</li>
+<li>Once the broth comes to a boil, add the chicken breast and mushrooms. Turn to medium-low heat and cover. Simmer for 15 minutes, or until the chicken breast is just cooked through.</li>
+<li>Transfer the chicken to a plate. Shred with two forks. If you find the inside of the chicken is still pink, return it to the pot and cook for a few more minutes, until it just cooked through.</li>
+<li>Turn to medium-high heat and bring to a boil. Add the instant noodles and bell peppers. Boil according to the package instructions until the noodles turn tender, 2 to 3 minutes.</li>
+<li>Turn off the heat. Add back the chicken and lime juice. Stir to mix well. Taste the broth. You can adjust the taste by adding more salt. If the broth is too spicy, you can add more sugar to balance the hot taste.</li>
+<li>Serve hot with more lime wedges and cilantro, if using.</li>
+</ol>
+<h2>See also</h2>
+<p>[[Thai food]]</p>
+<h2>Notes</h2>
+<ol>
+<li>The amount of Thai curry paste depends on the brand you use. Some brands produce a very spicy paste. In this case, 2 tablespoons are more than enough heat for the dish. Some brands make much milder pastes, such that you can use up to 4 tablespoons and the dish still won’t taste too spicy. I recommend you add 1 to 2 tablespoons first. You can taste the broth at step 4 and add more paste if needed.</li>
+</ol>
+<h2>References</h2>
+<p>#TK</p>
+
+
+    <footer>
+      2022 <span class="copy-left">©</span> Kristján Oddsson
+    </footer>
+  </body>
+</html>

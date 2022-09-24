@@ -1,0 +1,307 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My cooking site</title>
+    <style>
+      @import "https://unpkg.com/open-props";
+      @import "https://unpkg.com/open-props/normalize.min.css";
+      body {
+        padding: var(--size-2) var(--size-4);
+      }
+      p {
+        margin-bottom: var(--size-4);
+      
+
+      footer {
+        text-align: center;
+      }
+
+      .copy-left {
+        display: inline-block;
+        transform: scaleX(-1);
+      }
+    </style>
+    <script type="module" defer>
+      const data = {
+        nodes: [
+          
+            {"id": "Coconut Dhal"},
+          
+            {"id": "Cold Brew Coffee Concetrate"},
+          
+            {"id": "Crispy Korean BBQ Tofu"},
+          
+            {"id": "Mushroom Gnocci"},
+          
+            {"id": "Oat Milk"},
+          
+            {"id": "No-knead Sourdough Bread"},
+          
+            {"id": "Thai Peanut Butter Ramen"},
+          
+            {"id": "Lemon Verbena Kombucha"},
+          
+            {"id": "Tofu Banh Mi"},
+          
+            {"id": "Strawberries"},
+          
+            {"id": "Strawberry Marinara"},
+          
+            {"id": "Mapo Tofu"},
+          
+            {"id": "Blueberry-Lavender Shrub"},
+          
+            {"id": "Watermelon-Basil Shrub"},
+          
+            {"id": "Drinks"},
+          
+            {"id": "Kombucha"},
+          
+            {"id": "Shrubs"},
+          
+            {"id": "Food"},
+          
+            {"id": "Thai food"},
+          
+            {"id": "Indian food"},
+          
+            {"id": "Vietnamese food"},
+          
+            {"id": "Fermented foods"},
+          
+            {"id": "Miso"},
+          
+            {"id": "Japanese Food"},
+          
+            {"id": "Korean food"},
+          
+            {"id": "Sweet Miso"},
+          
+            {"id": "Yeast Pizza Dough"},
+          
+            {"id": "Vanilla Ice Cream with Miso Caramel"},
+          
+            {"id": "Pizza"},
+          
+            {"id": "Bread"},
+          
+            {"id": "Tofu Pepper Fry"},
+          
+            {"id": "Mushroom Ramen"},
+          
+            {"id": "Miso Caramel"},
+          
+            {"id": "Italian food"},
+          
+            {"id": "Deserts"},
+          
+            {"id": "Chinese food"},
+          
+        ],
+        links: [
+          
+            
+          
+            
+              {"source":"Cold Brew Coffee Concetrate","target":"Drinks"},
+            
+          
+            
+          
+            
+          
+            
+              {"source":"Oat Milk","target":"Drinks"},
+            
+          
+            
+              {"source":"No-knead Sourdough Bread","target":"Bread"},
+            
+          
+            
+          
+            
+              {"source":"Lemon Verbena Kombucha","target":"Kombucha"},
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              {"source":"Blueberry-Lavender Shrub","target":"Shrubs"},
+            
+              {"source":"Blueberry-Lavender Shrub","target":"Drinks"},
+            
+          
+            
+              {"source":"Watermelon-Basil Shrub","target":"Shrubs"},
+            
+              {"source":"Watermelon-Basil Shrub","target":"Drinks"},
+            
+          
+            
+          
+            
+              {"source":"Kombucha","target":"Drinks"},
+            
+          
+            
+              {"source":"Shrubs","target":"Drinks"},
+            
+          
+            
+          
+            
+              {"source":"Thai food","target":"Food"},
+            
+          
+            
+              {"source":"Indian food","target":"Food"},
+            
+          
+            
+              {"source":"Vietnamese food","target":"Food"},
+            
+          
+            
+              {"source":"Fermented foods","target":"Food"},
+            
+          
+            
+          
+            
+              {"source":"Japanese Food","target":"Food"},
+            
+          
+            
+              {"source":"Korean food","target":"Food"},
+            
+          
+            
+              {"source":"Sweet Miso","target":"Miso"},
+            
+          
+            
+              {"source":"Yeast Pizza Dough","target":"Bread"},
+            
+              {"source":"Yeast Pizza Dough","target":"Pizza"},
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              {"source":"Miso Caramel","target":"Miso"},
+            
+          
+            
+          
+            
+          
+            
+          
+        ]
+      }
+      import * as d3 from "https://cdn.skypack.dev/d3@7";
+      import {ForceGraph} from '/graph.js';
+      const chart = ForceGraph(data, {
+        nodeId: d => d.id,
+        nodeTitle: d => d.id,
+        nodeRadius: 7,
+        height: 680
+      })
+      document.body.append(chart)
+    </script>
+  </head>
+  <body>
+    <h1>Mushroom Ramen</h1>
+<p>Got this recipe from the Noma Projects website after I bought some of their smoked mushroom garum. I've tweaked it slightly using another recipe so that it's more like a Tantanmen Ramen. I'm sure I'll tweak this recipe more in the future to not include the smoked mushroom graum since it's a bit of a <em>rare ingredient</em>.</p>
+<p>Yields 3L</p>
+<h2>Ingredients</h2>
+<h3>Mushroom Broth Base</h3>
+<ul>
+<li>3.5L water</li>
+<li>120g dried shiitake mushrooms</li>
+<li>100g kelp</li>
+<li>1 star anise</li>
+<li>4 bay leaves</li>
+<li>1 head garlic, top sliced off</li>
+<li>1 stick cinnamon</li>
+<li>80g smoked mushroom garum</li>
+</ul>
+<h3>Tare</h3>
+<ul>
+<li>70g tahini</li>
+<li>30ml chilli oil</li>
+<li>40ml light soy sauce</li>
+<li>1 tsp sugar</li>
+</ul>
+<h3>Vegan Ramen Broth</h3>
+<ul>
+<li>1.5L mushroom broth base</li>
+<li>1.5L soy milk</li>
+<li>120g tare</li>
+<li>75g white miso</li>
+<li>75g smoked mushroom garum</li>
+<li>10g toasted sesame oil</li>
+<li>Salt, to taste</li>
+<li>White pepper, to taste</li>
+</ul>
+<h3>Noodles (to finish)</h3>
+<ul>
+<li>400g ramen noodles, fresh or dry</li>
+<li>5g salt</li>
+<li>Nori, cut into 2cm squares, for garnish</li>
+<li>Bean sprouts, for garnish</li>
+<li>Scallions, thinly sliced, for garnish</li>
+<li>Toasted sesame seeds, for garnish</li>
+<li>Chilli oil, to taste</li>
+</ul>
+<h2>Method</h2>
+<h3>For Mushroom Broth Base:</h3>
+<ol>
+<li>Place the dried shiitake mushrooms into a large pot. In a separate pot, boil the water and pour over the mushrooms. Soak for 10 minutes. After 10 minutes, add the kelp pieces and soak for 30 minutes more. Remove the kelp and discard.</li>
+<li>Add the remaining ingredients, except for the smoked mushroom garum, to the kelp-infused mushroom water. Bring this liquid to a simmer and cook for 30 minutes.</li>
+<li>Place a sieve over a large heat-proof bowl or container. Strain stock through the sieve and add the smoked mushroom garum to the strained base. Use immediately, or keep in the refrigerator until needed (for up to one week).</li>
+</ol>
+<h3>For Tare:</h3>
+<ol>
+<li>The tare is the flavour bomb that is going to infuse into your broth. In a bowl, combine your tahini, chilli oil, soy sauce and sugar in a bowl.</li>
+</ol>
+<h3>For Vegan Ramen Broth:</h3>
+<ol>
+<li>Combine the broth base, soy milk, and tare into a large pot and bring to a slow boil. Add miso directly into the pot and whisk in the miso so it emulsifies into the broth base. Bring to a simmer.</li>
+<li>When heated, the soy milk will split like miso soup, and give body to the broth. Remove the pot from the heat and add the smoked mushroom garum, sesame oil, and season with salt and pepper to taste.</li>
+</ol>
+<h3>To Finish:</h3>
+<ol>
+<li>Bring a medium pot of water and salt to boil.</li>
+<li>Cook the noodles until tender, but still springy. Remove the pot from the heat and drain the noodles into a colander or sieve. Shake off any excess water and portion into 4 serving bowls.</li>
+<li>Ladle the hot ramen broth over the noodles and garnish as desired. Serve immediately.</li>
+</ol>
+<h2>See also</h2>
+<p>[[Japanese Food]]</p>
+<h2>References</h2>
+<p>Noma Projects. ‘Vegan Ramen’. Accessed 26 March 2022. <a href="https://nomaprojects.com/blogs/recipes/vegan-ramen">https://nomaprojects.com/blogs/recipes/vegan-ramen</a>.</p>
+<p>Mob. ‘Tantanmen Ramen’. Accessed 26 March 2022. <a href="https://www.mobkitchen.co.uk/recipes/tantanmen-ramen">https://www.mobkitchen.co.uk/recipes/tantanmen-ramen</a>.</p>
+
+
+    <footer>
+      2022 <span class="copy-left">©</span> Kristján Oddsson
+    </footer>
+  </body>
+</html>

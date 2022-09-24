@@ -1,0 +1,284 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My cooking site</title>
+    <style>
+      @import "https://unpkg.com/open-props";
+      @import "https://unpkg.com/open-props/normalize.min.css";
+      body {
+        padding: var(--size-2) var(--size-4);
+      }
+      p {
+        margin-bottom: var(--size-4);
+      
+
+      footer {
+        text-align: center;
+      }
+
+      .copy-left {
+        display: inline-block;
+        transform: scaleX(-1);
+      }
+    </style>
+    <script type="module" defer>
+      const data = {
+        nodes: [
+          
+            {"id": "Coconut Dhal"},
+          
+            {"id": "Cold Brew Coffee Concetrate"},
+          
+            {"id": "Crispy Korean BBQ Tofu"},
+          
+            {"id": "Mushroom Gnocci"},
+          
+            {"id": "Oat Milk"},
+          
+            {"id": "No-knead Sourdough Bread"},
+          
+            {"id": "Thai Peanut Butter Ramen"},
+          
+            {"id": "Lemon Verbena Kombucha"},
+          
+            {"id": "Tofu Banh Mi"},
+          
+            {"id": "Strawberries"},
+          
+            {"id": "Strawberry Marinara"},
+          
+            {"id": "Mapo Tofu"},
+          
+            {"id": "Blueberry-Lavender Shrub"},
+          
+            {"id": "Watermelon-Basil Shrub"},
+          
+            {"id": "Drinks"},
+          
+            {"id": "Kombucha"},
+          
+            {"id": "Shrubs"},
+          
+            {"id": "Food"},
+          
+            {"id": "Thai food"},
+          
+            {"id": "Indian food"},
+          
+            {"id": "Vietnamese food"},
+          
+            {"id": "Fermented foods"},
+          
+            {"id": "Miso"},
+          
+            {"id": "Japanese Food"},
+          
+            {"id": "Korean food"},
+          
+            {"id": "Sweet Miso"},
+          
+            {"id": "Yeast Pizza Dough"},
+          
+            {"id": "Vanilla Ice Cream with Miso Caramel"},
+          
+            {"id": "Pizza"},
+          
+            {"id": "Bread"},
+          
+            {"id": "Tofu Pepper Fry"},
+          
+            {"id": "Mushroom Ramen"},
+          
+            {"id": "Miso Caramel"},
+          
+            {"id": "Italian food"},
+          
+            {"id": "Deserts"},
+          
+            {"id": "Chinese food"},
+          
+        ],
+        links: [
+          
+            
+          
+            
+              {"source":"Cold Brew Coffee Concetrate","target":"Drinks"},
+            
+          
+            
+          
+            
+          
+            
+              {"source":"Oat Milk","target":"Drinks"},
+            
+          
+            
+              {"source":"No-knead Sourdough Bread","target":"Bread"},
+            
+          
+            
+          
+            
+              {"source":"Lemon Verbena Kombucha","target":"Kombucha"},
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              {"source":"Blueberry-Lavender Shrub","target":"Shrubs"},
+            
+              {"source":"Blueberry-Lavender Shrub","target":"Drinks"},
+            
+          
+            
+              {"source":"Watermelon-Basil Shrub","target":"Shrubs"},
+            
+              {"source":"Watermelon-Basil Shrub","target":"Drinks"},
+            
+          
+            
+          
+            
+              {"source":"Kombucha","target":"Drinks"},
+            
+          
+            
+              {"source":"Shrubs","target":"Drinks"},
+            
+          
+            
+          
+            
+              {"source":"Thai food","target":"Food"},
+            
+          
+            
+              {"source":"Indian food","target":"Food"},
+            
+          
+            
+              {"source":"Vietnamese food","target":"Food"},
+            
+          
+            
+              {"source":"Fermented foods","target":"Food"},
+            
+          
+            
+          
+            
+              {"source":"Japanese Food","target":"Food"},
+            
+          
+            
+              {"source":"Korean food","target":"Food"},
+            
+          
+            
+              {"source":"Sweet Miso","target":"Miso"},
+            
+          
+            
+              {"source":"Yeast Pizza Dough","target":"Bread"},
+            
+              {"source":"Yeast Pizza Dough","target":"Pizza"},
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              {"source":"Miso Caramel","target":"Miso"},
+            
+          
+            
+          
+            
+          
+            
+          
+        ]
+      }
+      import * as d3 from "https://cdn.skypack.dev/d3@7";
+      import {ForceGraph} from '/graph.js';
+      const chart = ForceGraph(data, {
+        nodeId: d => d.id,
+        nodeTitle: d => d.id,
+        nodeRadius: 7,
+        height: 680
+      })
+      document.body.append(chart)
+    </script>
+  </head>
+  <body>
+    <h1>Crispy Korean BBQ Tofu</h1>
+<blockquote>
+<p>Super crispy tofu tossed in the most delicious Korean inspired BBQ sauce.</p>
+</blockquote>
+<h2>Ingredients</h2>
+<ul>
+<li>Scallions for serving</li>
+<li>Rice for serving</li>
+</ul>
+<h3>BBQ SAUCE</h3>
+<ul>
+<li>1/2 Cup Tomato sauce, canned</li>
+<li>1/4 Cup Rice Wine Vinegar</li>
+<li>1/4 Cup Soy sauce or liquid aminos</li>
+<li>2 Tablespoons Agave syrup</li>
+<li>2 Teaspoons Gochujang paste</li>
+<li>1 Small Apple, finely grated</li>
+<li>2 Cloves Garlic, finely grated</li>
+<li>1 inch piece Fresh ginger, finely grated</li>
+<li>1 Tablespoon Sesame seeds</li>
+</ul>
+<h3>Tofu</h3>
+<ul>
+<li>1 Teaspoon Salt</li>
+<li>Oil for frying</li>
+<li>1 Block(15oz.) Extra firm tofu</li>
+<li>1/2 Cup Corn starch</li>
+</ul>
+<h2>Instructions</h2>
+<ol>
+<li>Start by pressing your tofu. I will link to my tofu guide below if you would like a step by step of that process. Press the block of tofu for at least 30 minutes, the longer the better. You can even do it in the morning before you plan to make it.</li>
+<li>When you are ready to eat, make the Korean BBQ sauce first. In a medium sized mixing bowl, whisk together the tomato sauce, rice wine vinegar, soy sauce, agave, Gochujang, the finely grated apple, garlic and ginger, and the sesame seeds. Whisk until combined. Set aside.</li>
+<li>Then, take your pressed block of tofu, cut into cubes, or thinner rectangular slices like I did. Whatever you prefer. Add the tofu to a large mixing bowl, then sprinkle with the corn starch and salt. Toss to coat all of the tofu.</li>
+<li>Now, heat a little bit of oil at the bottom of a non stick pan on medium high. Add the tofu to the pan, don't over crowd it, if the pan is too small to fit all of it, do it in two batches.</li>
+<li>Brown the tofu on all sides, reducing heat as needed. It will take a few minutes on each side to get the tofu nice and crispy. Remove the tofu from the pan, place in a bowl.</li>
+<li>If there is any leftover oil in the pan, wipe it out. Then return the pan to the heat and add about half of the Korean BBQ sauce. Heat on low for a minute, then add the tofu back to the pan.</li>
+<li>Toss to coat the tofu, and cook for a minute. Then remove from heat. Serve with rice and veggies. Drizzle the remaining sauce over the top and garnish with scallions or chives!</li>
+</ol>
+<h2>Notes</h2>
+<ul>
+<li>Serves 4.</li>
+<li>If you have never worked with Gochujang before, it's a Korean chili paste, if you can't find it, your favorite chili sauce or paste will work.</li>
+</ul>
+<h2>See also</h2>
+<p>[[Korean food]]</p>
+<h2>References</h2>
+<p>‘Vegan Crispy Korean BBQ Tofu’. 2019. <em>Rabbit and Wolves</em> (blog). 13 February 2019. <a href="https://www.rabbitandwolves.com/vegan-crispy-korean-bbq-tofu/">https://www.rabbitandwolves.com/vegan-crispy-korean-bbq-tofu/</a>.</p>
+
+
+    <footer>
+      2022 <span class="copy-left">©</span> Kristján Oddsson
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My cooking site</title>
+    <style>
+      @import "https://unpkg.com/open-props";
+      @import "https://unpkg.com/open-props/normalize.min.css";
+      body {
+        padding: var(--size-2) var(--size-4);
+      }
+      p {
+        margin-bottom: var(--size-4);
+      
+
+      footer {
+        text-align: center;
+      }
+
+      .copy-left {
+        display: inline-block;
+        transform: scaleX(-1);
+      }
+    </style>
+    <script type="module" defer>
+      const data = {
+        nodes: [
+          
+            {"id": "Coconut Dhal"},
+          
+            {"id": "Cold Brew Coffee Concetrate"},
+          
+            {"id": "Crispy Korean BBQ Tofu"},
+          
+            {"id": "Mushroom Gnocci"},
+          
+            {"id": "Oat Milk"},
+          
+            {"id": "No-knead Sourdough Bread"},
+          
+            {"id": "Thai Peanut Butter Ramen"},
+          
+            {"id": "Lemon Verbena Kombucha"},
+          
+            {"id": "Tofu Banh Mi"},
+          
+            {"id": "Strawberries"},
+          
+            {"id": "Strawberry Marinara"},
+          
+            {"id": "Mapo Tofu"},
+          
+            {"id": "Blueberry-Lavender Shrub"},
+          
+            {"id": "Watermelon-Basil Shrub"},
+          
+            {"id": "Drinks"},
+          
+            {"id": "Kombucha"},
+          
+            {"id": "Shrubs"},
+          
+            {"id": "Food"},
+          
+            {"id": "Thai food"},
+          
+            {"id": "Indian food"},
+          
+            {"id": "Vietnamese food"},
+          
+            {"id": "Fermented foods"},
+          
+            {"id": "Miso"},
+          
+            {"id": "Japanese Food"},
+          
+            {"id": "Korean food"},
+          
+            {"id": "Sweet Miso"},
+          
+            {"id": "Yeast Pizza Dough"},
+          
+            {"id": "Vanilla Ice Cream with Miso Caramel"},
+          
+            {"id": "Pizza"},
+          
+            {"id": "Bread"},
+          
+            {"id": "Tofu Pepper Fry"},
+          
+            {"id": "Mushroom Ramen"},
+          
+            {"id": "Miso Caramel"},
+          
+            {"id": "Italian food"},
+          
+            {"id": "Deserts"},
+          
+            {"id": "Chinese food"},
+          
+        ],
+        links: [
+          
+            
+          
+            
+              {"source":"Cold Brew Coffee Concetrate","target":"Drinks"},
+            
+          
+            
+          
+            
+          
+            
+              {"source":"Oat Milk","target":"Drinks"},
+            
+          
+            
+              {"source":"No-knead Sourdough Bread","target":"Bread"},
+            
+          
+            
+          
+            
+              {"source":"Lemon Verbena Kombucha","target":"Kombucha"},
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              {"source":"Blueberry-Lavender Shrub","target":"Shrubs"},
+            
+              {"source":"Blueberry-Lavender Shrub","target":"Drinks"},
+            
+          
+            
+              {"source":"Watermelon-Basil Shrub","target":"Shrubs"},
+            
+              {"source":"Watermelon-Basil Shrub","target":"Drinks"},
+            
+          
+            
+          
+            
+              {"source":"Kombucha","target":"Drinks"},
+            
+          
+            
+              {"source":"Shrubs","target":"Drinks"},
+            
+          
+            
+          
+            
+              {"source":"Thai food","target":"Food"},
+            
+          
+            
+              {"source":"Indian food","target":"Food"},
+            
+          
+            
+              {"source":"Vietnamese food","target":"Food"},
+            
+          
+            
+              {"source":"Fermented foods","target":"Food"},
+            
+          
+            
+          
+            
+              {"source":"Japanese Food","target":"Food"},
+            
+          
+            
+              {"source":"Korean food","target":"Food"},
+            
+          
+            
+              {"source":"Sweet Miso","target":"Miso"},
+            
+          
+            
+              {"source":"Yeast Pizza Dough","target":"Bread"},
+            
+              {"source":"Yeast Pizza Dough","target":"Pizza"},
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              {"source":"Miso Caramel","target":"Miso"},
+            
+          
+            
+          
+            
+          
+            
+          
+        ]
+      }
+      import * as d3 from "https://cdn.skypack.dev/d3@7";
+      import {ForceGraph} from '/graph.js';
+      const chart = ForceGraph(data, {
+        nodeId: d => d.id,
+        nodeTitle: d => d.id,
+        nodeRadius: 7,
+        height: 680
+      })
+      document.body.append(chart)
+    </script>
+  </head>
+  <body>
+    <h1>Strawberry Marinara</h1>
+<p>#TK: Image</p>
+<h2>Ingrediences</h2>
+<ul>
+<li>500g strawberries, hulled.</li>
+<li>220g strawberries, thinly sliced.</li>
+<li>175g tomatoes, peeled, seeded and diced.</li>
+<li>100g sweet onion, minced</li>
+<li>100g dry white wine.</li>
+<li>3g garlic, thinly sliced.</li>
+<li>2g basil leaves, torn.</li>
+<li>2g taragon leaves, bruised.</li>
+<li>Salt to taste</li>
+<li>Lime juice to taste</li>
+</ul>
+<h2>Steps</h2>
+<ol>
+<li>Rinse and juice hulled strawberries. Measure 185g of juice to use in next steps.</li>
+<li>Combine thinly sliced strawberries with 185g strawberry juice in a large, heavy bottomed pot.</li>
+<li>Add all the ingrediences except salt and lime juice and simmer uncovered, strirring often, until the sauce becomes as thick and intesnely flavored as rich marinara, about 35 minutes.</li>
+<li>Season the sauce and serve it warm.</li>
+</ol>
+<h2>See also</h2>
+<p>[[Italian food]]</p>
+<h2>References</h2>
+<p>Myhrvold, Nathan, Maxime Bilet, and Melissa Lehuta. <em>Modernist Cuisine at Home</em>. 1st ed. Bellevue, WA: Cooking Lab, 2012. pg 114.</p>
+
+
+    <footer>
+      2022 <span class="copy-left">©</span> Kristján Oddsson
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My cooking site</title>
+    <style>
+      @import "https://unpkg.com/open-props";
+      @import "https://unpkg.com/open-props/normalize.min.css";
+      body {
+        padding: var(--size-2) var(--size-4);
+      }
+      p {
+        margin-bottom: var(--size-4);
+      
+
+      footer {
+        text-align: center;
+      }
+
+      .copy-left {
+        display: inline-block;
+        transform: scaleX(-1);
+      }
+    </style>
+    <script type="module" defer>
+      const data = {
+        nodes: [
+          
+            {"id": "Coconut Dhal"},
+          
+            {"id": "Cold Brew Coffee Concetrate"},
+          
+            {"id": "Crispy Korean BBQ Tofu"},
+          
+            {"id": "Mushroom Gnocci"},
+          
+            {"id": "Oat Milk"},
+          
+            {"id": "No-knead Sourdough Bread"},
+          
+            {"id": "Thai Peanut Butter Ramen"},
+          
+            {"id": "Lemon Verbena Kombucha"},
+          
+            {"id": "Tofu Banh Mi"},
+          
+            {"id": "Strawberries"},
+          
+            {"id": "Strawberry Marinara"},
+          
+            {"id": "Mapo Tofu"},
+          
+            {"id": "Blueberry-Lavender Shrub"},
+          
+            {"id": "Watermelon-Basil Shrub"},
+          
+            {"id": "Drinks"},
+          
+            {"id": "Kombucha"},
+          
+            {"id": "Shrubs"},
+          
+            {"id": "Food"},
+          
+            {"id": "Thai food"},
+          
+            {"id": "Indian food"},
+          
+            {"id": "Vietnamese food"},
+          
+            {"id": "Fermented foods"},
+          
+            {"id": "Miso"},
+          
+            {"id": "Japanese Food"},
+          
+            {"id": "Korean food"},
+          
+            {"id": "Sweet Miso"},
+          
+            {"id": "Yeast Pizza Dough"},
+          
+            {"id": "Vanilla Ice Cream with Miso Caramel"},
+          
+            {"id": "Pizza"},
+          
+            {"id": "Bread"},
+          
+            {"id": "Tofu Pepper Fry"},
+          
+            {"id": "Mushroom Ramen"},
+          
+            {"id": "Miso Caramel"},
+          
+            {"id": "Italian food"},
+          
+            {"id": "Deserts"},
+          
+            {"id": "Chinese food"},
+          
+        ],
+        links: [
+          
+            
+          
+            
+              {"source":"Cold Brew Coffee Concetrate","target":"Drinks"},
+            
+          
+            
+          
+            
+          
+            
+              {"source":"Oat Milk","target":"Drinks"},
+            
+          
+            
+              {"source":"No-knead Sourdough Bread","target":"Bread"},
+            
+          
+            
+          
+            
+              {"source":"Lemon Verbena Kombucha","target":"Kombucha"},
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              {"source":"Blueberry-Lavender Shrub","target":"Shrubs"},
+            
+              {"source":"Blueberry-Lavender Shrub","target":"Drinks"},
+            
+          
+            
+              {"source":"Watermelon-Basil Shrub","target":"Shrubs"},
+            
+              {"source":"Watermelon-Basil Shrub","target":"Drinks"},
+            
+          
+            
+          
+            
+              {"source":"Kombucha","target":"Drinks"},
+            
+          
+            
+              {"source":"Shrubs","target":"Drinks"},
+            
+          
+            
+          
+            
+              {"source":"Thai food","target":"Food"},
+            
+          
+            
+              {"source":"Indian food","target":"Food"},
+            
+          
+            
+              {"source":"Vietnamese food","target":"Food"},
+            
+          
+            
+              {"source":"Fermented foods","target":"Food"},
+            
+          
+            
+          
+            
+              {"source":"Japanese Food","target":"Food"},
+            
+          
+            
+              {"source":"Korean food","target":"Food"},
+            
+          
+            
+              {"source":"Sweet Miso","target":"Miso"},
+            
+          
+            
+              {"source":"Yeast Pizza Dough","target":"Bread"},
+            
+              {"source":"Yeast Pizza Dough","target":"Pizza"},
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              {"source":"Miso Caramel","target":"Miso"},
+            
+          
+            
+          
+            
+          
+            
+          
+        ]
+      }
+      import * as d3 from "https://cdn.skypack.dev/d3@7";
+      import {ForceGraph} from '/graph.js';
+      const chart = ForceGraph(data, {
+        nodeId: d => d.id,
+        nodeTitle: d => d.id,
+        nodeRadius: 7,
+        height: 680
+      })
+      document.body.append(chart)
+    </script>
+  </head>
+  <body>
+    <h1>Tofu Banh Mi</h1>
+<h2>Marinated Tofu</h2>
+<ul>
+<li>~230 g extra firm tofu, drained and pressed</li>
+<li>60 ml soy sauce</li>
+<li>60 ml rice vinegar</li>
+<li>60 ml maple syrup</li>
+<li>2 tbsp sesame oil</li>
+<li>2 tsp fresh grated ginger</li>
+<li>1 tbsp cooking oil</li>
+</ul>
+<p>Combine all the ingredients for the tofu marinade EXPECT the cooking oil in a <strong>large, shallow dish</strong>. Slice the tofu into four slices and place in the marinade so that tofu is completely submerged.</p>
+<p>Marinate for 1 hour or longer.</p>
+<h2>Pickled Vegetables</h2>
+<ul>
+<li>1/3 large carrot, cut into matchsticks</li>
+<li>1/2 small cucumber, cut into matchsticks</li>
+<li>1/2 jalapeño, seeded and cut into thin rings</li>
+<li>60 ml rice vinegar</li>
+<li>1 tsp granulated sugar</li>
+<li>0.5 tsp salt</li>
+</ul>
+<p>Combine the ingredients for the pickled vegetables in a small bowl. Cover and refrigerate until ready to use.</p>
+<h2>Creamy Bánh Mî Sauce</h2>
+<ul>
+<li>60 ml vegan mayonnaise</li>
+<li>2 tsp hoisin sauce</li>
+<li>1 tsp soy sauce</li>
+<li>1 tsp maple syrup</li>
+<li>1 tsp sriracha</li>
+</ul>
+<p>In a small bowl, whisk together the ingredients for the Creamy Banh Mi Sauce. Refrigerate until ready to use.</p>
+<h2>The rest</h2>
+<ul>
+<li>12 inches baguette, cut in half</li>
+<li>a few fresh sprigs of cilantro</li>
+<li>1/4 jalapeño, seeded and cut into thin rings</li>
+</ul>
+<p>Once tofu is marinated, heat oil in a <strong>large skillet</strong> over medium heat. Once the oil is hot, add the tofu. Cook for about 5 minutes per side, until the tofu is dark and crispy.</p>
+<p>Cut the baguette in half and then slice each baguette lengthwise to open. Generously spread the creamy Banh Mi sauce over both sides of each baguette. Add cooked tofu and a small handful of pickled carrots and cucumber. Top with fresh cilantro and jalapeño and serve immediately.</p>
+<h2>See also</h2>
+<p>[[Vietnamese food]]</p>
+<h2>References</h2>
+<p>My Darling Vegan. ‘Tofu Banh Mi’, 18 April 2018. <a href="https://www.mydarlingvegan.com/tofu-banh-mi/">https://www.mydarlingvegan.com/tofu-banh-mi/</a>.</p>
+
+
+    <footer>
+      2022 <span class="copy-left">©</span> Kristján Oddsson
+    </footer>
+  </body>
+</html>

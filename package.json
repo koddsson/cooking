@@ -1,0 +1,25 @@
+{
+  "name": "cooking",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koddsson/cooking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koddsson/cooking/issues"
+  },
+  "homepage": "https://github.com/koddsson/cooking#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2",
+    "d3": "^7.6.1",
+    "markdown-it": "^13.0.1",
+    "markdown-it-replace-link": "^1.1.0"
+  }
+}
