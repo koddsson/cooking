@@ -24,20 +24,7 @@
       }
     </style>
     <script type="module" defer>
-      const data = {
-        nodes: [
-          {% for post in collections.all %}
-            {"id": "{{ post.fileSlug }}"},
-          {% endfor %}
-        ],
-        links: [
-          {% for post in collections.all %}
-            {% for link in post.data.page.links %}
-              {{ link | json }},
-            {% endfor %}
-          {% endfor %}
-        ]
-      }
+      const data = {{ graph | json }}
       import * as d3 from "https://cdn.skypack.dev/d3@7";
       import {ForceGraph} from '/graph.js';
       const chart = ForceGraph(data, {
@@ -51,16 +38,6 @@
   </head>
   <body>
     {{ content }}
-
-    <h1>begin</h1>
-    {{ links.something }}
-    <h1>end</h1>
-
-    {% for post in collections.all %}
-      {% for link in post.data.page %}
-        {{ link | json }},
-      {% endfor %}
-    {% endfor %}
 
     <footer>
       2022 <span class="copy-left">©</span> Kristján Oddsson
