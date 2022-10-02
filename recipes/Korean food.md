@@ -4,7 +4,7 @@
 #TK: Image
 
 ## See also
-[Food](./Food.md)
+[[Food]]
 
 ## References
 ‘Korean Cuisine’. In _Wikipedia_, 27 October 2021. [https://en.wikipedia.org/w/index.php?title=Korean_cuisine&oldid=1052037375](https://en.wikipedia.org/w/index.php?title=Korean_cuisine&oldid=1052037375).

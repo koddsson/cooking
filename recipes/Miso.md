@@ -4,7 +4,7 @@
 #TK: Image
 
 ## See also
-Japanese Food
+[[Japanese Food]]
 
 ## References
 ‘Miso’. In _Wikipedia_, 8 November 2021. [https://en.wikipedia.org/w/index.php?title=Miso&oldid=1054153988](https://en.wikipedia.org/w/index.php?title=Miso&oldid=1054153988).
