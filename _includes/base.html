@@ -8,11 +8,15 @@
       @import "https://unpkg.com/open-props";
       @import "https://unpkg.com/open-props/normalize.min.css";
       body {
-        padding: var(--size-2) var(--size-4);
+        display: grid;
+        place-content: center;
+        padding: var(--size-7);
+        gap: var(--size-7);
       }
+
       p {
         margin-bottom: var(--size-4);
-      
+      }
 
       footer {
         text-align: center;
@@ -37,10 +41,15 @@
     </script>
   </head>
   <body>
-    {{ content }}
+      <header>
+        <h1>{{ page.fileSlug }}</h1>
+      </header>
+      <main>
+      {{ content }}
+      </main>
 
-    <footer>
-      2022 <span class="copy-left">©</span> Kristján Oddsson
-    </footer>
+      <footer>
+        2022 <span class="copy-left">©</span> Kristján Oddsson
+      </footer>
   </body>
 </html>
