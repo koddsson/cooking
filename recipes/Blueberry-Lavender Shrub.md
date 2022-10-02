@@ -18,8 +18,8 @@
 9. Discard the solids or save them for another use.
 
 ## See also
-[Shrubs](./Shrubs.md)
-[Drinks](./Drinks.md)
+[[Shrubs]]
+[[Drinks]]
 
 ## References
 Dietsch, Michael. _Shrubs: An Old Fashioned Drink for Modern Times : Recipes for Savoury, Sweet and Sour Cocktails and Sophisticated Sodas_, 2014.

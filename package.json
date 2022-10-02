@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
+    "start": "npx @11ty/eleventy --serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +22,8 @@
     "d3": "^7.6.1",
     "markdown-it": "^13.0.1",
     "markdown-it-replace-link": "^1.1.0"
+  },
+  "dependencies": {
+    "markdown-it-wikilinks": "^1.2.0"
   }
 }

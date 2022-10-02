@@ -22,8 +22,8 @@
 -   Bake for 15 minutes or until the crust and cheese looks golden brown.
 
 ## See also
-[Bread](./Bread.md)
-[Pizza](./Pizza.md)
+[[Bread]]
+[[Pizza]]
 
 ## References
 [How To Make The Best Homemade Pizza Recipe by Tasty](https://tasty.co/recipe/pizza-dough)
